@@ -1,0 +1,18 @@
+{
+  "name": "pencatatan-offline",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android"
+  },
+  "dependencies": {
+    "expo": "~49.0.15",
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "expo-file-system": "~15.4.4",
+    "expo-sharing": "~11.5.0",
+    "jspdf": "^2.5.1",
+    "react-native-zip-archive": "^6.3.0"
+  }
+}
